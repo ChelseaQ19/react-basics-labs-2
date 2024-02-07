@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import logo from './logo.svg';
 import './App.css';
 import Task from './components/Task';
 import AddTaskForm from './components/Form';
